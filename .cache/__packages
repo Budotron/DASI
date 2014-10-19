@@ -1,0 +1,10 @@
+base
+dplyr
+Formula
+ggplot2
+Hmisc
+knitr
+lattice
+reshape2
+slidify
+survival
